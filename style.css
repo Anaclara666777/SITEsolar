@@ -15,6 +15,11 @@ border-radius: 40px;
 height: 250px;
 }
 
+video{
+    border-radius: 40px;
+    height: 250px;
+    }
+
 input,button{
     background-color: blanchedalmond;
     color: black;
